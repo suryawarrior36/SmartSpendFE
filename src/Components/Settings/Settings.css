@@ -1,0 +1,37 @@
+.settings {
+    padding: 20px;
+    background-color: #ede7f6;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .settings h3 {
+    color: #6a1b9a;
+    margin-bottom: 15px;
+  }
+  
+  .settings label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  .settings input,
+  .settings button {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .settings button {
+    background-color: #8e24aa;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .settings button:hover {
+    background-color: #6a1b9a;
+  }
+  

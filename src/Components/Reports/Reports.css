@@ -1,0 +1,21 @@
+.reports {
+    padding: 20px;
+    background-color: #fff3e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .reports h3 {
+    color: #ef6c00;
+    margin-bottom: 15px;
+  }
+  
+  .chart-container {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffe0b2;
+    border-radius: 5px;
+  }
+  

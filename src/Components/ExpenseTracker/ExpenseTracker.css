@@ -1,0 +1,34 @@
+.expense-tracker {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f1f8e9;
+    border-radius: 8px;
+  }
+  
+  .expense-tracker h3 {
+    color: #388e3c;
+    margin-bottom: 15px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table th {
+    background-color: #66bb6a;
+    color: white;
+    padding: 10px;
+  }
+  
+  table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
